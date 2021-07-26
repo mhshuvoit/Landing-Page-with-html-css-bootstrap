@@ -1,5 +1,5 @@
-# psd-to-html
+# Figma to HTML
 
 It lives at https://psd-to-html-mhs.netlify.app
 
-A simple html, css, bootstrap landing page.
+Landing page with HTML, CSS, Bootstrap.
